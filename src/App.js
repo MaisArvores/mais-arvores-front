@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import "primereact/resources/themes/nova-light/theme.css";
 import "primereact/resources/primereact.min.css";
 import "primeicons/primeicons.css";
-import "./../src/layouts/messi.css";
+import "./../src/layouts/home.css";
 
 import { withRouter } from "react-router-dom";
 

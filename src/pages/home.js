@@ -2,7 +2,7 @@ import React from "react";
 import "../layouts/index.css";
 import logocor from "./../images/logocor.png";
 import whatsapp from "./../images/whatsapp.png";
-import divimagem from "./../images/imagem2.png";
+import divimagem from "./../images/planta.png";
 import instagram from "./../images/instagram.png";
 import mainimagem from "./../images/carrossel.png";
 import facebook from "./../images/facebook.png";
@@ -36,7 +36,7 @@ const Home = () => {
         </p>
       </div>
       <div>
-        <img className="imagem2" src={divimagem} alt="terra" />
+        <img className="planta" src={divimagem} alt="terra" />
       </div>
       <footer>
         Entre em contato com conosco pela nossas redes:
